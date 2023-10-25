@@ -49,7 +49,7 @@ export default function CricketersList() {
       field: "details",
       headerName: "Details",
       flex: 1,
-      renderCell: (params) => <Link to={`/details/${params.id}`}>know</Link>,
+      renderCell: (params) => <Link to={`/details/${params.id}`}>Know More</Link>,
       headerClassName: "headerClass",
     },
   ];
