@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <AppHeader></AppHeader>
+      <CricketersList></CricketersList>
     </div>
   );
 }
