@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+git clone https://github.com/aaushi/cricketers-app.git
+Open the folder in Editor
+in terminal:
+    npm install
+    npm run start
+
 ### `npm run start`
 
 Runs the app in the development mode.\
